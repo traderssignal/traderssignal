@@ -483,7 +483,7 @@ input:focus {
   -webkit-transition-duration: 500ms;
   -o-transition-duration: 500ms;
   transition-duration: 500ms;
-  background-color: hsl(216, 9%, 10%); }
+  background-color: hsl(0, 0%, 0%); }
   .header-area .top-header-area {
     position: relative;
     z-index: 10;
