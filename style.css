@@ -90,7 +90,7 @@ p {
   font-weight: 400; }
 
 img {
-  width:200px;
+  width:500px;
   height: auto; }
 
 ul {
@@ -157,6 +157,18 @@ button.mfp-arrow {
 
 .bg-transparent {
   background-color: transparent !important; }
+
+.bg-gray4 {
+  background-color: #ffefbf !important; }
+
+.bg-gray3 {
+  background-color: #ffe1fb !important; }
+
+.bg-gray2 {
+  background-color: #e1f8dc !important; }
+
+.bg-gray1 {
+    background-color: #f3f9c4 !important; }
 
 .bg-gray {
   background-color: #e8f1f8 !important; }
@@ -430,7 +442,26 @@ input:focus {
       background-color: #ffffff;
       color: #1c66de; }
     
-      
+      .hami-btn5 {
+        position: relative;
+        z-index: 1;
+        min-width: 150px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 16px;
+        font-weight: 600;
+        display: inline-block;
+        padding: 0 40px;
+        text-align: center;
+        text-transform: capitalize;
+        background-color: #fff838;
+        color: #ffffff;
+        border: none;
+        border-radius: 100px;
+        -webkit-transition-duration: 500ms;
+        -o-transition-duration: 500ms;
+        transition-duration: 500ms; }
+
 .hami-btn {
   position: relative;
   z-index: 1;
