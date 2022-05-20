@@ -93,13 +93,11 @@ img {
   width:500px;
   height: auto; }
 
-  @media only screen 
-  and (max-width : 320px) {
-   img {
+  @media (max-width: 767px) {
+    img {
   width:300px;
   height: auto; }
   }
-
 ul {
   margin: 0;
   padding: 0; }
