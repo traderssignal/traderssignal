@@ -420,6 +420,28 @@ input:focus {
 /* :: 6.0 Buttons CSS */
 .btn:focus {
   box-shadow: none; }
+  
+  .hami-btn-5 {
+    position: relative;
+    z-index: 1;
+    min-width: 150px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0 40px;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: #FF0000;
+    color: #ffffff;
+    border: none;
+    border-radius: 100px;
+    -webkit-transition-duration: 500ms;
+    -o-transition-duration: 500ms;
+    transition-duration: 500ms; }
+ 
+
   .hami-btn-3 {
     position: relative;
     z-index: 1;
